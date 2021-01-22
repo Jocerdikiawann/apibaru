@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Gempa bumi sulawesi barat",
+      "category": "Bencana alam",
+      "thumbnail": "https://cdn-2.tstatic.net/jabar/foto/bank/images/longsor-cimanggung-evakuasi-kamis-14-januari.jpg",
+      "pledged": 0,
+      "target": 15670000,
+      "date_end": 1613581200000,
+      "profile_photo": "http://isvill.ac.id/wp-content/uploads/2017/10/4.png",
+      "profile_name": "BEM FT Islamic Village"
+    },
+    {
+      "id": 2,
+      "title": "Banjir Kalimantan Selatan",
+      "category": "Bencana alam",
+      "thumbnail": "https://img.inews.co.id/media/822/files/inews_new/2021/01/15/15_antara_banjir_kalsel__3_.jpg",
+      "pledged": 55200000,
+      "target": 101500000,
+      "date_end": 1608829200000,
+      "profile_photo": "http://isvill.ac.id/wp-content/uploads/2017/10/4.png",
+      "profile_name": "BEM FT Islamic Village"
+    }
+  ]
